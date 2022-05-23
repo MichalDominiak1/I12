@@ -1,0 +1,39 @@
+body{
+    background-color: #424242;
+    color: white;
+  }
+
+  .title{
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 2px 3px black;
+}
+
+.zdjecie{
+    width: 50%;
+    margin-left: 25%;
+    border-width: 20px;
+    border-style: ridge;
+    border-color: white;
+}
+
+.back{
+  color: aqua;
+  font-size: 30px;
+  margin-left: 25%;
+  font-family:Times;
+}
+
+.back:focus{
+color: red;
+}
+
+.link{
+color: aqua;
+font-size: 15px;
+margin-left: 72%;
+}
+
+.link:focus{
+color: red;
+}
